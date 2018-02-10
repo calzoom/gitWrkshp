@@ -1,4 +1,2 @@
 Hellow tesxst 
-<<<<<<< HEAD
-this should not be here
->>>>>>> feature
+asl;dkfj
